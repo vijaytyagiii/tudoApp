@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1031540536083",
+    "project_id": "tudoapp-f1cef",
+    "storage_bucket": "tudoapp-f1cef.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031540536083:android:3e3b15ba3766b12b6de0e6",
+        "android_client_info": {
+          "package_name": "com.example.tudo_app_with_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKmH9drlzpy-h7Nst54-FWE4jVNmIDPws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
